@@ -3,61 +3,67 @@
 🎓 **Estudante de Tecnologia na Universidade de Brasília (UnB)**  
 💻 **C++ • Python • JavaScript • HTML • CSS**
 
-Sou estudante da área de tecnologia e gosto de aprender na prática, desenvolvendo projetos e transformando os conteúdos da faculdade em aplicações reais.
+Estudante de tecnologia com foco em **programação, desenvolvimento de software e aprendizado prático**. Uso este perfil para registrar minha evolução, projetos acadêmicos e experimentos pessoais.
 
-## 🚀 Sobre mim
+---
 
-- 🎓 Estudante da **Universidade de Brasília — UnB**
-- 💻 Atualmente estudando **C++, Python e desenvolvimento web**
-- 🧠 Aprendendo **Programação Orientada a Objetos, Estruturas de Dados e Sistemas Digitais**
-- 🛠️ Desenvolvendo projetos acadêmicos e pessoais
-- 📚 Buscando evoluir continuamente em programação e desenvolvimento de software
+## 🚀 Em foco
 
-## 🧰 Tecnologias
+- 🧩 **C++** — lógica, estruturas de dados e Programação Orientada a Objetos
+- 🐍 **Python** — automação, lógica e projetos
+- 🌐 **Desenvolvimento Web** — HTML, CSS e JavaScript
+- 🔧 **Git & GitHub** — versionamento e organização de projetos
+- 🎓 Projetos acadêmicos da **UnB**
 
-**Linguagens**
-- C++
-- Python
-- JavaScript
+## 🛠️ Tecnologias
 
-**Web**
-- HTML5
-- CSS3
+| Área | Tecnologias |
+|---|---|
+| Linguagens | C++, Python, JavaScript |
+| Web | HTML5, CSS3 |
+| Versionamento | Git, GitHub |
+| Desenvolvimento | Visual Studio Code |
 
-**Ferramentas**
-- Git
-- GitHub
-- Visual Studio Code
+---
 
-## 📌 Projetos
+## ⭐ Projetos em destaque
 
-### 🎲 Jogo de Dominó em C++
-Projeto desenvolvido para praticar lógica de programação, estruturas de dados e conceitos de desenvolvimento de jogos em C++.
+### 🎲 [Jogo de Dominó em C++](https://github.com/lucascosta001/domino)
+Projeto acadêmico em evolução, com foco em lógica de programação, vetores, aleatoriedade, regras de jogo e Programação Orientada a Objetos.
 
-### 🔐 Compressão RLE em C++
-Implementação de Run-Length Encoding para estudar representação binária, manipulação de strings e algoritmos de compressão.
+### 🐍 [Python](https://github.com/lucascosta001/python)
+Repositório de estudos, exercícios e pequenos projetos desenvolvidos durante o aprendizado de Python.
 
-### 🌐 Projetos Web
-Projetos e exercícios desenvolvidos durante meus estudos de HTML, CSS e JavaScript.
+### 🌐 [HTML & CSS](https://github.com/lucascosta001/html-css)
+Projetos e exercícios para prática de estruturação de páginas e estilização.
 
-## 📖 Atualmente estudando
+### ⚡ [JavaScript](https://github.com/lucascosta001/javascript)
+Estudos e projetos para desenvolver lógica e interatividade na Web.
+
+### 📱 [Projeto Android](https://github.com/lucascosta001/projeto-android)
+Projeto voltado à prática de desenvolvimento e construção de interfaces.
+
+---
+
+## 📚 Atualmente estudando
 
 - Programação Orientada a Objetos
 - Estruturas de Dados
 - Sistemas Digitais
 - Desenvolvimento de Software
-- Git e GitHub
+- Boas práticas com Git e GitHub
 
-## 🎓 Formação
+## 🎯 Objetivo do perfil
 
-**Universidade de Brasília — UnB**  
-Estudante da área de Tecnologia
-
-## 📫 Contato
-
-- 💼 LinkedIn: [Lucas Alan Costa Novais](https://www.linkedin.com/in/lucas-costa001/?isSelfProfile=true)
-- 📸 Instagram: [@lucascosta001](https://www.instagram.com/lucas.alannovais/)
+Construir um portfólio que mostre **evolução real**, desde os fundamentos de programação até projetos cada vez mais completos.
 
 ---
 
-> Sempre aprendendo, desenvolvendo e evoluindo. 🚀
+## 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-costa001/)
+- 📸 [Instagram](https://www.instagram.com/lucas.alannovais/)
+
+---
+
+> **Aprender, construir, versionar e evoluir. 🚀**
