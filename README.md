@@ -56,7 +56,7 @@ Estudante da área de Tecnologia
 ## 📫 Contato
 
 - 💼 LinkedIn: [Lucas Alan Costa Novais](https://www.linkedin.com/in/lucas-costa001/?isSelfProfile=true)
-- 📸 Instagram: [@lucascosta001]([https://www.instagram.com/](https://www.instagram.com/lucas.alannovais/))
+- 📸 Instagram: [@lucascosta001](https://www.instagram.com/lucas.alannovais/)
 
 ---
 
