@@ -1,16 +1,63 @@
-## Hi there 👋
+# Olá! Eu sou Lucas Alan 👋
 
-<!--
-**lucascosta001/lucascosta001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Tecnologia na Universidade de Brasília (UnB)**  
+💻 **C++ • Python • JavaScript • HTML • CSS**
 
-Here are some ideas to get you started:
+Sou estudante da área de tecnologia e gosto de aprender na prática, desenvolvendo projetos e transformando os conteúdos da faculdade em aplicações reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🎓 Estudante da **Universidade de Brasília — UnB**
+- 💻 Atualmente estudando **C++, Python e desenvolvimento web**
+- 🧠 Aprendendo **Programação Orientada a Objetos, Estruturas de Dados e Sistemas Digitais**
+- 🛠️ Desenvolvendo projetos acadêmicos e pessoais
+- 📚 Buscando evoluir continuamente em programação e desenvolvimento de software
+
+## 🧰 Tecnologias
+
+**Linguagens**
+- C++
+- Python
+- JavaScript
+
+**Web**
+- HTML5
+- CSS3
+
+**Ferramentas**
+- Git
+- GitHub
+- Visual Studio Code
+
+## 📌 Projetos
+
+### 🎲 Jogo de Dominó em C++
+Projeto desenvolvido para praticar lógica de programação, estruturas de dados e conceitos de desenvolvimento de jogos em C++.
+
+### 🔐 Compressão RLE em C++
+Implementação de Run-Length Encoding para estudar representação binária, manipulação de strings e algoritmos de compressão.
+
+### 🌐 Projetos Web
+Projetos e exercícios desenvolvidos durante meus estudos de HTML, CSS e JavaScript.
+
+## 📖 Atualmente estudando
+
+- Programação Orientada a Objetos
+- Estruturas de Dados
+- Sistemas Digitais
+- Desenvolvimento de Software
+- Git e GitHub
+
+## 🎓 Formação
+
+**Universidade de Brasília — UnB**  
+Estudante da área de Tecnologia
+
+## 📫 Contato
+
+- 💼 LinkedIn: [Lucas Alan Costa Novais](https://www.linkedin.com/)
+- 📸 Instagram: [@lucascosta001](https://www.instagram.com/)
+
+---
+
+> Sempre aprendendo, desenvolvendo e evoluindo. 🚀
